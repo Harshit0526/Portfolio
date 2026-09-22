@@ -84,4 +84,4 @@ open index.html
 
 - GitHub: [github.com/Harshit0526](https://github.com/Harshit0526)
 - LinkedIn: [linkedin.com/in/harshit-srivastav-28b76a382](https://www.linkedin.com/in/harshit-srivastav-28b76a382/)
-- Email: harshitsrivast1599@gmail.com
+- Email: harshitsrivast0526@gmail.com
